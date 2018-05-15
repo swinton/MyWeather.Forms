@@ -13,3 +13,5 @@ Built with Xamarin.Forms with support for:
 Grabs current weather and 5 day forecast.
 
 ![](Images/promo.png)
+
+This is Nick's fork. 
